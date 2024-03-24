@@ -31,7 +31,7 @@
 
 **Примеры работы**
 
-Фильтрация по дате
+Фильтрация по дате:
 ![Фильтрация по дате](./screenshots/date_filter.png)
 
 Успешный запрос:
@@ -60,7 +60,7 @@ python manage.py runserver
 
 Протестировать запросы к API:
 ```bash
-в [файле requests-examples.http](./requests-examples.http).
+в файле requests-examples.http
 ```
 
 Токены различных пользователей уже есть в файле. Токен админа:
